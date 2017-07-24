@@ -8,8 +8,13 @@ Things about board and its evaluations. Board data structure and different playo
 
 笔记：
 棋盘
-1 检查某个位置是否可以走子 TryPlay。
+1 检查某个位置是否可以走子 TryPlay
+
 2 在某个位置放置棋子       Play
+
 3 获得棋盘上所有棋子信息   GetAllStones
+
   （走子之后，有可能要提子，这个函数是提子之后所有棋子信息）
+  
 4 检查成绩 GetFastScore
+
