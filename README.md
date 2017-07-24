@@ -20,3 +20,8 @@ Things about board and its evaluations. Board data structure and different playo
   
 4 检查成绩 GetFastScore
 
+源程序在VC2008和VC2010下编译通过。
+这里没有带工程文件，自己用VC创建一个新工程，把源码加进来编译通过就可以测试。
+目前只测试了Board模块。
+
+
