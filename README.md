@@ -7,7 +7,9 @@ The Go APP, reconstruction use vc++, based on darkforestGO, .
 Things about board and its evaluations. Board data structure and different playout policy.
 
 笔记：
+
 棋盘
+
 1 检查某个位置是否可以走子 TryPlay
 
 2 在某个位置放置棋子       Play
